@@ -800,11 +800,9 @@ footer {
   }
 
   .gallery {
-    /* display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    width: 94%;
-    margin: auto;
-    max-width: 500px; */
+    /* grid-template-columns: 1fr;
+    width: 80%; */
+
     display: flex;
     justify-content: center;
     align-items: center;
