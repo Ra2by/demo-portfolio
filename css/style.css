@@ -806,10 +806,6 @@ footer {
     gap: 0;
   }
 
-  .gallery img {
-    padding-inline: 20px;
-  }
-
   .courses-container {
     grid-template-columns: 1fr;
     width: 80%;
