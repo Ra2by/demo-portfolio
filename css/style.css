@@ -465,6 +465,10 @@ header {
   height: 100%;
   display: block;
 }
+/* img {
+  width: 100%;
+  display: block;
+} */
 .gallery a {
   border-radius: 0.3rem;
   box-shadow: 0 3px 5px var(--primary);
@@ -798,9 +802,6 @@ footer {
     transform: rotate(5deg);
   }
 
-  .gallery a {
-    width: 25rem;
-  }
   .gallery {
     grid-template-columns: repeat(1, 1fr);
     gap: 0;
