@@ -807,6 +807,10 @@ footer {
     gap: 0;
     margin-inline: auto;
   }
+  .portfolio-container {
+    justify-self: center;
+    /* margin: 0 auto; */
+  }
 
   .courses-container {
     grid-template-columns: 1fr;
