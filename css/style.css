@@ -799,14 +799,16 @@ footer {
     transform: rotate(5deg);
   }
 
+  .gallery a {
+    width: 25rem;
+  }
   .gallery {
-    /* grid-template-columns: 1fr;
-    width: 80%; */
-
-    display: flex;
+    grid-template-columns: 1fr;
+    /* width: 80%; */
+    /* display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-direction: column; */
     gap: 0;
   }
 
