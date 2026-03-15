@@ -1,13 +1,45 @@
 // typing js
 
 var typed = new Typed(".typing", {
-  strings: ["Web Developer", "Blogger", "Youtuber"],
+  strings: [
+    "Web Developer",
+    "Blogger",
+    "Youtuber",
+    "Web Developer",
+    "Blogger",
+    "Youtuber",
+    "Web Developer",
+    "Blogger",
+    "Youtuber",
+    "Web Developer",
+    "Blogger",
+    "Youtuber",
+    "Web Developer",
+    "Blogger",
+    "Youtuber",
+  ],
   typeSpeed: 80,
   backSpeed: 80,
 });
 
 var typed = new Typed(".typing-2", {
-  strings: ["Web Developer", "Blogger", "Youtuber"],
+  strings: [
+    "Web Developer",
+    "Blogger",
+    "Youtuber",
+    "Web Developer",
+    "Blogger",
+    "Youtuber",
+    "Web Developer",
+    "Blogger",
+    "Youtuber",
+    "Web Developer",
+    "Blogger",
+    "Youtuber",
+    "Web Developer",
+    "Blogger",
+    "Youtuber",
+  ],
   typeSpeed: 100,
   backSpeed: 60,
 });
