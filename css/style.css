@@ -808,7 +808,9 @@ footer {
     margin-inline: auto;
   }
   .portfolio-container {
-    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .courses-container {
