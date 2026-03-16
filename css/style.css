@@ -813,6 +813,7 @@ footer {
     height: 100%;
     display: block;
   }
+
   .courses-container {
     grid-template-columns: 1fr;
     width: 80%;
