@@ -798,7 +798,9 @@ footer {
   .service-container .cards .card:hover::after {
     transform: rotate(5deg);
   }
-
+  .gallery a {
+    width: 24rem;
+  }
   .gallery {
     /* grid-template-columns: 1fr; */
     /* width: 80%;  */
@@ -808,11 +810,11 @@ footer {
     flex-direction: column;
     gap: 0;
   }
-  .gallery img {
+  /* .gallery img {
     width: 100%;
     height: 100%;
     display: block;
-  }
+  } */
 
   .courses-container {
     grid-template-columns: 1fr;
