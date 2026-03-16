@@ -799,9 +799,9 @@ footer {
     transform: rotate(5deg);
   }
 
-  /* .gallery a {
-    width: 25rem;
-  } */
+  .gallery a {
+    width: 24rem;
+  }
   .gallery {
     /* grid-template-columns: 1fr; */
     /* width: 80%;  */
